@@ -1,0 +1,5 @@
+{
+  "name": "Poker Roguelike Duel",
+  "description": "A P2P multiplayer poker roguelike game. Build your deck, collect Jokers, and outscore your opponent. Features AI-generated custom Joker art.",
+  "requestFramePermissions": []
+}
